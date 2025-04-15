@@ -43,19 +43,44 @@ A live demo of CozyQuest can be accessed [here](https://cozy-quest.onrender.com/
 - multer
 - nodemon
 - passport
-  
-## Installation
 
+
+## Installation
 To run CozyQuest locally, follow these steps:
 
-1. Clone this repository.
-2. Navigate to the project directory.
-3. Install dependencies using `npm install`.
-4. Set up your MongoDB Atlas cluster and obtain your connection string.
-5. Create a `.env` file in the root directory and add your MongoDB Atlas connection string and Cloudinary API credentials.
-   it should include: CLOUD_NAME, CLOUD_API_KEY, CLOUD_API_SECRET, MAP_TOKEN, ATLASDB_URL and a SECRET (to encrypt passwords).
-7. Run the application using `node app.js`. (make sure you are in project directory)
-8. Access the application in your web browser at `http://localhost:3000`.
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/Mangalam-17/CozyQuest.git
+cd CozyQuest
+```
+
+## 2. Install dependencies
+
+```bash
+  npm install 
+```
+
+## 3. Environment Variables:
+
+```bash
+ATLASDB_URL=<your-mongodb-atlas-url>
+SECRET=<your-session-secret>
+CLOUD_NAME=<your-cloudinary-cloud-name>
+CLOUD_API_KEY=<your-cloudinary-api-key>
+CLOUD_API_SECRET=<your-cloudinary-api-secret>
+```
+
+## 4. Run the application:
+
+```bash
+node app.js
+```
+
+## 5. Access the application in your web browser at 
+```bash
+http://localhost:3000
+```
 
 ## Screenshots
 1. Home Page
