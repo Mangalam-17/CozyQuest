@@ -78,7 +78,9 @@ To run WanderHome locally, follow these steps:
 ![Alt text](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.30.20%E2%80%AFPM.png)
 
 
+
 ## Video Demonstration
+Coming soon . . . 
 
 
 ## Contributing
