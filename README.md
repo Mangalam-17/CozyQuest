@@ -28,6 +28,11 @@ A live demo of CozyQuest can be accessed [here](https://cozy-quest.onrender.com/
 - CSS
 - JavaScript
 
+
+## Directory overview 
+
+
+
 ## Other Dependencies
 
 - Cloudainary
