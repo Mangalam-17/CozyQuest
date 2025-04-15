@@ -1,4 +1,4 @@
-# Cozy Quest : Rooms, Amazing Pools, Treehouses . . . 
+# Cozy Quest🏠 : Rooms, Amazing Pools, Treehouses . . . 
 
 CozyQuest is a web application replicating core functionalities of Airbnb, allowing users to browse, list, and review rental properties. Built using the EJS templating engine, Node.js framework, Express.js framework, and MongoDB database.
 
