@@ -54,7 +54,7 @@ To run WanderHome locally, follow these steps:
 
 ## Screenshots
 1. Home Page
-![home page]([http://url/to/img.png](https://github.com/Mangalam-17/CozyQuest/blob/3bdb03b3fcc6b17ca199f1e244dae8748cf04a69/preview/Screenshot%202025-04-15%20at%207.28.36%E2%80%AFPM.png)
+![Alt text](https://github.com/Mangalam-17/CozyQuest/blob/3bdb03b3fcc6b17ca199f1e244dae8748cf04a69/preview/Screenshot%202025-04-15%20at%207.28.36%E2%80%AFPM.png)
 
 ## Video Demonstration
 
