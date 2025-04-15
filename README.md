@@ -30,7 +30,7 @@ A live demo of CozyQuest can be accessed [here](https://cozy-quest.onrender.com/
 
 
 ## Directory overview 
-
+![Directory overview](https://github.com/Mangalam-17/CozyQuest/blob/fec6405323552e68a852bf95880db06f7e5db0c2/preview/Screenshot%202025-04-15%20at%207.59.44%E2%80%AFPM.png)
 
 
 ## Other Dependencies
