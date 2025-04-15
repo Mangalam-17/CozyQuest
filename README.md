@@ -31,37 +31,7 @@ A live demo of CozyQuest can be accessed [here](https://cozy-quest.onrender.com/
 
 ## Directory overview 
 
-CozyQuest/
-├── controllers/         # Application logic and request handling
-│   ├── listings.js
-│   ├── reviews.js
-│   └── users.js
-├── models/              # Database schemas and models
-│   ├── listing.js
-│   ├── review.js
-│   └── user.js
-├── routes/              # Express routes for different parts of the application
-│   ├── listing.js
-│   ├── review.js
-│   └── user.js
-├── views/               # EJS templates for rendering HTML
-│   ├── listings/
-│   │   ├── index.ejs
-│   │   ├── new.ejs
-│   │   ├── show.ejs
-│   │   └── edit.ejs
-│   ├── users/
-│   │   ├── login.ejs
-│   │   └── signup.ejs
-│   └── error.ejs
-├── public/              # Static files (CSS, JS, images)
-├── utils/               # Utility modules (error handling, async wrapper)
-├── schema.js            # Validation schemas using Joi
-├── cloudConfig.js       # Cloudinary configuration for image uploads
-├── middleware.js        # Custom middleware for authentication and authorization
-├── app.js               # Main application entry point
-├── .env                 # Environment variables
-└── README.md            # Project documentation
+
 
 ## Other Dependencies
 
