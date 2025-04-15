@@ -55,7 +55,28 @@ To run WanderHome locally, follow these steps:
 ## Screenshots
 1. Home Page
 
-![Alt text](https://github.com/Mangalam-17/CozyQuest/blob/3bdb03b3fcc6b17ca199f1e244dae8748cf04a69/preview/Screenshot%202025-04-15%20at%207.28.36%E2%80%AFPM.png)
+![Alt text](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.28.54%E2%80%AFPM.png)
+
+2. Signup Page
+
+![Alt text](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.29.01%E2%80%AFPM.png)
+
+3. Login Page
+
+![Alt text](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.29.08%E2%80%AFPM.png)
+
+4. View Particular Listing
+
+![Alt text](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.29.39%E2%80%AFPM.png)
+
+5. Review Page
+
+![Alt text](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.30.05%E2%80%AFPM.png)
+
+6. Location view
+
+![Alt text](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.30.20%E2%80%AFPM.png)
+
 
 ## Video Demonstration
 
