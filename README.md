@@ -2,7 +2,7 @@
 
 CozyQuest is a web application replicating core functionalities of Airbnb, allowing users to browse, list, and review rental properties. Built using the EJS templating engine, Node.js framework, Express.js framework, and MongoDB database.
 
-## Live Demo
+## Live Demo 👁️
 
 A live demo of CozyQuest can be accessed [here](https://cozy-quest.onrender.com/listings).
 
@@ -17,7 +17,7 @@ A live demo of CozyQuest can be accessed [here](https://cozy-quest.onrender.com/
 - **Image Storage**: Cloudinary API is utilized for image storage, allowing users to upload images of their properties.
 - **Responsive Design**: The application is fully responsive, and well suited for mobile view too.
 
-## Technologies Used
+## Technologies Used 🛠️
 
 - Node.js
 - Express.js
@@ -29,7 +29,7 @@ A live demo of CozyQuest can be accessed [here](https://cozy-quest.onrender.com/
 - JavaScript
 
 
-## Directory overview 
+## Directory overview 🖇️
 ![Directory overview](https://github.com/Mangalam-17/CozyQuest/blob/fec6405323552e68a852bf95880db06f7e5db0c2/preview/Screenshot%202025-04-15%20at%207.59.44%E2%80%AFPM.png)
 
 
@@ -45,7 +45,7 @@ A live demo of CozyQuest can be accessed [here](https://cozy-quest.onrender.com/
 - passport
 
 
-## Installation
+## Installation ⚡️
 To run CozyQuest locally, follow these steps:
 
 ## 1. Clone the Repository
@@ -82,7 +82,8 @@ node app.js
 http://localhost:3000
 ```
 
-## Screenshots
+
+## Screenshots 👁️‍🗨️
 1. Home Page
 
 ![Home Page](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.28.54%E2%80%AFPM.png)
@@ -106,6 +107,7 @@ http://localhost:3000
 6. Location view
 
 ![location view](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.30.20%E2%80%AFPM.png)
+
 
 
 
