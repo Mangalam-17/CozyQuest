@@ -53,7 +53,7 @@ To run WanderHome locally, follow these steps:
 8. Access the application in your web browser at `http://localhost:3000`.
 
 ## Screenshots
-
+Coming soon
 
 ## Video Demonstration
 
