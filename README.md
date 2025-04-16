@@ -16,6 +16,7 @@ A live demo of CozyQuest can be accessed [here](https://cozy-quest.onrender.com/
 - **Server-Side Rendering**: EJS is used for rendering the page server-side and sending it to the user.
 - **Image Storage**: Cloudinary API is utilized for image storage, allowing users to upload images of their properties.
 - **Responsive Design**: The application is fully responsive, and well suited for mobile view too.
+- **MVC Usage**: The implementation of MVC helps to segregate frontend, backend, database in models, views and controllers respectively
 
 ## Technologies Used 🛠️
 
