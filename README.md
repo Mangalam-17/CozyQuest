@@ -87,25 +87,37 @@ http://localhost:3000
 ## Screenshots 👁️‍🗨️
 1. Home Page
 
+
 ![Home Page](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.28.54%E2%80%AFPM.png)
 
 2. Signup Page
+
 
 ![Signup page](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.29.01%E2%80%AFPM.png)
 
 3. Login Page
 
+
 ![Login page](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.29.08%E2%80%AFPM.png)
 
-4. View Particular Listing
+
+4. Add a new Listing
+
+
+![add listing](https://github.com/Mangalam-17/CozyQuest/blob/163ca502c9fca522d47b631d7666c965d2123e96/preview/Screenshot%202025-04-15%20at%2011.18.35%E2%80%AFPM.png)
+
+5. View Particular Listing
+
 
 ![particular listing](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.29.39%E2%80%AFPM.png)
 
-5. Review Page
+6. Review Page
+
 
 ![review page](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.30.05%E2%80%AFPM.png)
 
-6. Location view
+7. Location view
+
 
 ![location view](https://github.com/Mangalam-17/CozyQuest/blob/72047c92290b5ddfa53cb05ec82ec551fe240130/preview/Screenshot%202025-04-15%20at%207.30.20%E2%80%AFPM.png)
 
@@ -113,7 +125,7 @@ http://localhost:3000
 
 
 ## Video Demonstration
-Coming soon . . . 
+Youtube - https://youtu.be/fP5lV7y7iYc
 
 
 ## Contributing
